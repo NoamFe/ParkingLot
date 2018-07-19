@@ -12,5 +12,5 @@ C:\fun\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csprojAssemblyReference.cache
 C:\fun\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CoreCompileInputs.cache
 C:\fun\ParkingLot\ParkingLot\obj\Debug\ParkingLot.exe
 C:\fun\ParkingLot\ParkingLot\obj\Debug\ParkingLot.pdb
-C:\fun\ParkingLot\ParkingLot\bin\Debug\UnitTestHelper.dll
 C:\fun\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CopyComplete
+C:\fun\ParkingLot\ParkingLot\bin\Debug\NFSystems.Extensions.dll
